@@ -2,7 +2,7 @@
 
 My first repo on Github
 
-I love riding
+I love riding!
 
 ---
 page_type: sample
